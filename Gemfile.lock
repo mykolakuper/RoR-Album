@@ -15,7 +15,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.12.2)
-    concurrent-ruby (1.1.8)
+    concurrent-ruby (1.1.9)
     contracts (0.13.0)
     dotenv (2.7.6)
     erubis (2.7.0)
@@ -23,10 +23,10 @@ GEM
     fast_blank (1.0.0)
     fastimage (2.2.0)
     ffi (1.13.1)
-    graphql (1.11.1)
-    graphql-client (0.16.0)
+    graphql (1.12.16)
+    graphql-client (0.17.0)
       activesupport (>= 3.0)
-      graphql (~> 1.8)
+      graphql (~> 1.10)
     haml (5.1.2)
       temple (>= 0.8.0)
       tilt
@@ -87,7 +87,7 @@ GEM
     middleman-minify-html (3.4.1)
       htmlcompressor (~> 0.2.0)
       middleman-core (>= 3.2)
-    minitest (5.14.3)
+    minitest (5.14.4)
     padrino-helpers (0.13.3.4)
       i18n (~> 0.6, >= 0.6.7)
       padrino-support (= 0.13.3.4)
